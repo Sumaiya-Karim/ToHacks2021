@@ -1,5 +1,5 @@
 # ToHacks2021
-# An app to connect you to community farms 
+An app to connect you to community farms 
 
 
 
