@@ -10,8 +10,9 @@ Inspired by the Alberta Approved Farmer Market and existing recipes apps, we wer
 The Community Cookbook, utilizes a phases development approach before launching to our users across Ontario. 
 
 Our application, it's in the early stages of development, we are currently focusing on the Farmers’ Market as they are opening up soon. We used **Courier** to deliver our notifications to subscribers based on their preferences via email or SMS using two providers: **SendGrid** and **Twilio**. This notification feature allows the subscribers to remind the hours of openings for their local Farmers’ Market, Public Health and COVID-19 Updates and additional measures taken for precautions to maintain health and well-being. 
-![CommunityCookbook_App_2](https://user-images.githubusercontent.com/64792891/118210163-10536080-b438-11eb-8ffb-b011f94be755.png)
-
+<p align="center">
+  ![CommunityCookbook_App_2](https://user-images.githubusercontent.com/64792891/118210163-10536080-b438-11eb-8ffb-b011f94be755.png)
+</p>
 
 ## How we built it
 As a first step, we designed our prototype of Community Cookbook using the existing templates in proto.io to add functionality that best fits our theme coherently. 
@@ -26,10 +27,12 @@ Once we were able to send notifications successfully in all three scenarios, we 
 > *  Setup Guide: How to build and trigger multi-step notification automations to users
 >> By following the guidelines, we were able to automate and send one-time notifications with our subscribers based on their best of email or SMS notifications preferences with Courier. For demo purposes, Send notification to the best of email. 
 
-![2](https://user-images.githubusercontent.com/64792891/118210211-29f4a800-b438-11eb-94e1-4a5c82ddb519.png)
-![3](https://user-images.githubusercontent.com/64792891/118210228-30831f80-b438-11eb-954e-3f1e95cd6624.png)
-![4](https://user-images.githubusercontent.com/64792891/118210242-37aa2d80-b438-11eb-8b51-9c4ec82542d5.png)
-![image](https://user-images.githubusercontent.com/73046315/117564097-454a6680-b078-11eb-882c-9e95518e185a.png)
+<p align="center">
+  ![2](https://user-images.githubusercontent.com/64792891/118210211-29f4a800-b438-11eb-94e1-4a5c82ddb519.png)
+  ![3](https://user-images.githubusercontent.com/64792891/118210228-30831f80-b438-11eb-954e-3f1e95cd6624.png)
+  ![4](https://user-images.githubusercontent.com/64792891/118210242-37aa2d80-b438-11eb-8b51-9c4ec82542d5.png)
+  ![image](https://user-images.githubusercontent.com/73046315/117564097-454a6680-b078-11eb-882c-9e95518e185a.png)
+</p>
 
 ## Challenges we ran into
 * Setting up accounts for Sendgrid and Twilio and Integrating with Courier. Every time, when we ran a test by running the workshop materials, we had an error message that said email/SMS that was undeliverable status.
