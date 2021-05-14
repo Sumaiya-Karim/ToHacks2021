@@ -1,7 +1,6 @@
 # ToHacks2021 - Community Cookbook
 An app to connect you to community farms 
 
-# ToHacks2021 - Community Cookbook
 ## Inspiration
 In the midst of Downtown Toronto, subway delays, assignments and projects deadlines, midterms and finals, we often find ourselves running behind schedules and away from our families, friends and our communities. As warmer weather comes, it reminds us of the local business and farmers with vendors setting up in  Gould Street offering a range of products from honey, coffee, breakfast, Salmon burgers, baked goods etc. As we walk through Gould Street in May, this brings local communities together, supporting each other and creating a positive environment as they spend their time in the Market. And Now, we believe it's our time to give back to our community, by supporting small businesses and Farmers’ Market in unprecedented times. 
 
