@@ -11,10 +11,7 @@ The Community Cookbook, utilizes a phases development approach before launching 
 
 Our application, it's in the early stages of development, we are currently focusing on the Farmers’ Market as they are opening up soon. We used **Courier** to deliver our notifications to subscribers based on their preferences via email or SMS using two providers: **SendGrid** and **Twilio**. This notification feature allows the subscribers to remind the hours of openings for their local Farmers’ Market, Public Health and COVID-19 Updates and additional measures taken for precautions to maintain health and well-being. 
 
-![CommunityCookbook_App_2](https://user-images.githubusercontent.com/64792891/118210163-10536080-b438-11eb-8ffb-b011f94be755.png)
-<p align="center">
-  Designed prototype of Community Cookbook using existing templates in proto.io and Canva
-</p>
+![CommunityCookbook_App_2](https://user-images.githubusercontent.com/64792891/118210163-10536080-b438-11eb-8ffb-b011f94be755.png)*Designed prototype of Community Cookbook using existing templates in proto.io and Canva*
  
 ## How we built it
 As a first step, we designed our prototype of Community Cookbook using the existing templates in proto.io to add functionality that best fits our theme coherently. 
