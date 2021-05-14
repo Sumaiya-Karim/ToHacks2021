@@ -29,24 +29,24 @@ Once we were able to send notifications successfully in all three scenarios, we 
 > *  Setup Guide: How to build and trigger multi-step notification automations to users
 >> By following the guidelines, we were able to automate and send one-time notifications with our subscribers based on their best of email or SMS notifications preferences with Courier. For demo purposes, Send notification to the best of email. 
 
+![2](https://user-images.githubusercontent.com/64792891/118210211-29f4a800-b438-11eb-94e1-4a5c82ddb519.png)
 <p align="center">
   Quick test for SendGrid and Courier Integration, for email notifications.  
-  ![2](https://user-images.githubusercontent.com/64792891/118210211-29f4a800-b438-11eb-94e1-4a5c82ddb519.png)
   </p>
-  
+ 
+ ![3](https://user-images.githubusercontent.com/64792891/118210228-30831f80-b438-11eb-954e-3f1e95cd6624.png)
  <p align="center">
  Quick test for Twilio and Courier Integration, for SMS notifications.    
-  ![3](https://user-images.githubusercontent.com/64792891/118210228-30831f80-b438-11eb-954e-3f1e95cd6624.png)
   </p>
-  
+
+![4](https://user-images.githubusercontent.com/64792891/118210242-37aa2d80-b438-11eb-8b51-9c4ec82542d5.png)
 <p align="center">
  Quick test for automate, send-one time email notifications to all of our subscribers.
-  ![4](https://user-images.githubusercontent.com/64792891/118210242-37aa2d80-b438-11eb-8b51-9c4ec82542d5.png)
   </p>
-  
+
+![image](https://user-images.githubusercontent.com/73046315/117564097-454a6680-b078-11eb-882c-9e95518e185a.png)
  <p align="center">
   Created a subscription form, using Google form. 
-  ![image](https://user-images.githubusercontent.com/73046315/117564097-454a6680-b078-11eb-882c-9e95518e185a.png)
   </p>
 
 ## Challenges we ran into
