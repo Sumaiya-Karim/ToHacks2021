@@ -18,13 +18,13 @@ As a first step, we designed our prototype of Community Cookbook using the exist
 
 Next, we identified the best way to use  **Courier**, to build notifications to stay connected with our subscribers based on their preferences for their latest updates from their local farmers’ market. By following the setup guidelines provided by the mentors, we were able to create our account with  **SendGrid** and  **Twilio SMS** and integrate with Courier. 
 
-> * Setup Guide:  SendGrid and Courier Integration - Email notifications
+> * Setup Guide: SendGrid and Courier Integration - Email notifications
 > * Setup Guide: Twilio SMS and Courier Integration - SMS notifications
 >> By following these guidelines, we were able to take advantage of a "no-code visual editor" to orchestrate SMS messages/email notifications to send notifications using **Courier’s REST API**. Before setting up email or phone notifications for our multiple subscribers, we tested with the workshop materials, to send email notifications, SMS notifications and the best of email and phone notifications.
 
 Once we were able to send notifications successfully in all three scenarios, we began to build our templates for Community Cookbook. We obtained the data such as the location, contact info and links to websites and social media from the officially recognized organization, **Farmers’ Markets Ontario® (FMO)** that was required to **create design notifications templates**. We were able to send notifications to subscribers one at a time for all the stated scenarios from workshop materials. To simplify this design process, we **created automation templates** for batch users, which allows us to send the same message with many subscribers in a short period of time. 
-> * How to build and trigger multi-step notification automations to users
->> By following these guidelines, we were able to automate and send one-time notifications with our subscribers based on their best of email or SMS notifications preferences with Courier. For demo purposes, Send notification to the best of email. 
+> *  Setup Guide: How to build and trigger multi-step notification automations to users
+>> By following the guidelines, we were able to automate and send one-time notifications with our subscribers based on their best of email or SMS notifications preferences with Courier. For demo purposes, Send notification to the best of email. 
 
 ![2](https://user-images.githubusercontent.com/64792891/118210211-29f4a800-b438-11eb-94e1-4a5c82ddb519.png)
 ![3](https://user-images.githubusercontent.com/64792891/118210228-30831f80-b438-11eb-954e-3f1e95cd6624.png)
