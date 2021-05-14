@@ -1,5 +1,4 @@
 # ToHacks2021 - Community Cookbook
-A mobile app, that connects you with your local business and Ontario’s Farmers Market, by subscribing to their notifications, to learn more about the market, hours of operation and COVID-19 Updates.
 
 ## Inspiration
 In the midst of Downtown Toronto, subway delays, assignments and projects deadlines, midterms and finals, we often find ourselves running behind schedules and away from our families, friends and our communities. As warmer weather comes, it reminds us of the local business and farmers with vendors setting up in  Gould Street offering a range of products from honey, coffee, breakfast, Salmon burgers, baked goods etc. As we walk through Gould Street in May, this brings local communities together, supporting each other and creating a positive environment as they spend their time in the Market. And Now, we believe it's our time to give back to our community, by supporting small businesses and Farmers’ Market in unprecedented times. 
