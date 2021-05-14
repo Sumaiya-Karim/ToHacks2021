@@ -30,7 +30,7 @@ Once we were able to send notifications successfully in all three scenarios, we 
  
  ![3](https://user-images.githubusercontent.com/64792891/118210228-30831f80-b438-11eb-954e-3f1e95cd6624.png)*Quick test for Twilio and Courier Integration, for SMS notifications.*    
 
-![4](https://user-images.githubusercontent.com/64792891/118210242-37aa2d80-b438-11eb-8b51-9c4ec82542d5.png)*Quick test for automate, send-one time email notifications to all of our subscribers.*
+![4](https://user-images.githubusercontent.com/64792891/118210242-37aa2d80-b438-11eb-8b51-9c4ec82542d5.png)\*Quick test for automate, send-one time email notifications to all of our subscribers.*
 
 ![image](https://user-images.githubusercontent.com/73046315/117564097-454a6680-b078-11eb-882c-9e95518e185a.png)*Created a subscription form, using Google form.* 
 
